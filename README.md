@@ -10,5 +10,6 @@ GOIDAPINGER (**"Гойда-Пингер"**) - Штука для пинга и а
 
 ГОЙДА ТОВАРИЩИ!
 
+## Наш слоняра
 
-
+![GP](https://github.com/user-attachments/assets/68f6ca51-3af4-4d81-a190-824e4d83e980)
